@@ -30,11 +30,7 @@ The system scrapes clothing items from an online fashion retailer, fetches real-
 ├── ootd_api.R                # Defines Plumber API endpoints
 ├── run_ootd_api.R            # Runs the OOTD API on port 8000
 ├── run_pipeline.sh           # Master script to automate full pipeline
-├── closet.db                 # SQLite DB with product info
-├── products_raw.csv          # Raw scraped item data
-├── weather_data.rds          # Saved weather snapshot
 ├── ootd_plot.png             # Example OOTD output image
-├── images/                   # Folder of downloaded product images
 └── README.md                 # Documentation
 ```
 
